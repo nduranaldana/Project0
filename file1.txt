@@ -1,1 +1,3 @@
 This is my first web design class.
+
+I just made my first git commit. 
